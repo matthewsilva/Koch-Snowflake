@@ -2,14 +2,17 @@
 
 
 Koch Snowflake (3rd Iteration)
+
 ![](readmeImages/3IterationsDemo.png)
 
 
 Koch Snowflake (4th Iteration)
+
 ![](readmeImages/4IterationsDemo.png)
 
 
 Koch Snowflake (6th Iteration)
+
 ![](readmeImages/6IterationsDemo.png)
 
 
