@@ -16,6 +16,9 @@ Koch Snowflake (6th Iteration)
 ![](readmeImages/6IterationsDemo.png)
 
 
+# Fractals Generated Using Matrix Multiplication And
+# Other Linear Algebra Concepts
+
 Dependencies/Installation:
 
 	Install the Java jdk of your choice (OpenJDK installation shown)
